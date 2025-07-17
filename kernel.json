@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/opt/homebrew/bin/python3",
+  "-m", "evolver_kernel",
+  "-f", "{connection_file}"
+],
+  "display_name": "Surface Evolver",
+  "language": "evolver"
+}
+
+
